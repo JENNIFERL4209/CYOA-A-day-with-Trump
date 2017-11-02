@@ -1,3 +1,3 @@
  do you want to drink coffee or covfefe?  
- [coffee](../third/coffe.md)
+ [coffee](../third/coffee.md)
  [covfefe](../third/covfefe.md)
