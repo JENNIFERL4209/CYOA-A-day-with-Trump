@@ -2,4 +2,4 @@
 
 There is poison in your covefefe. You are dead.
 
-[Start Over](start-over.md)
+[Start Over](start/third/start-over.md)

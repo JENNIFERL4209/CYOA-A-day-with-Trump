@@ -2,6 +2,6 @@
 
 Now yor are energized! What do you do now?
 
-[Play toys](toys.md)  
+[Play toys](../fourth/toys.md)  
 
-[Post some tweets on Twitter](twitter.md)
+[Post some tweets on Twitter](../fourth/twitter.md)
