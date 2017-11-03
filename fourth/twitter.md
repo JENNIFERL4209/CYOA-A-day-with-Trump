@@ -1,5 +1,5 @@
 # Twitter
 
-Trump post this on his Twitter, "I am resigning and leaving my new friend here as the new President of the United States. Welcome our new president!"
+Trump post this on his Twitter, "I am resigning and leaving my new friend here as the **new** President of the United States. _Welcome our new president!_"
 
-[Start Over](start-over.md)
+[Start Over](../start/wake-up.md)
