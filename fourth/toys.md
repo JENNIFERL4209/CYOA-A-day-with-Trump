@@ -1,5 +1,5 @@
 # Toys
 
-Trump shows you his favorite toy: the Red Button. You are dead because ...
+Trump shows you his favorite toy: **_the Red Button_**. You are dead because ...
 
-[Start Over](../start/start-over.md)
+[Start Over](../start/wake-up.md)
