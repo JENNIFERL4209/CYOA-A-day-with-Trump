@@ -1,5 +1,5 @@
 # Reflection
 
-After you see your reflection in the mirror, you was frighten to death.
+Afterseeing your reflection in the mirror, you were frighten to death.
 
 [Start Over](../start/wake-up.md)

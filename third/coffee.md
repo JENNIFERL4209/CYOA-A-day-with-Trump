@@ -1,7 +1,7 @@
 # Coffee
 
-Now yor are energized! What do you do now?
+Now that you are energized! What do you want to do now?
 
-[Play Toys](../fourth/toys.md)  
+[Play with Toys](../fourth/toys.md)  
 
 [Post some Tweets on Twitter](../fourth/twitter.md)

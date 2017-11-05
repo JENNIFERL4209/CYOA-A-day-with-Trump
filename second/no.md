@@ -1,6 +1,6 @@
  # Coffee or Covefefe
  
- Do you want to drink coffee or covfefe?  
+ Are you thirsty? Do you want to drink coffee or covfefe?  
  
  [Coffee](../third/coffee.md)
  
