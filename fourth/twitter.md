@@ -4,4 +4,6 @@ Trump posted this on Twitter, "I am resigning (I don't like this job) and leavin
 
 ![twitter](https://preview.c9users.io/jenniferl4209/github-learning/CYOA-A-day-with-Trump/fourth/twitter.png?_c9_id=livepreview3&_c9_host=https://ide.c9.io)  
 
+Photo Cr. redymzoy0
+
 [Start Over](../start/wake-up.md)
